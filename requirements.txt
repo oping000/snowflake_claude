@@ -1,0 +1,7 @@
+snowflake-connector-python
+anthropic
+streamlit
+pandas
+scipy
+plotly
+python-dotenv
